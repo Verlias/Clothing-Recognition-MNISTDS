@@ -1,2 +1,2 @@
 # Clothing-Recognition-MNISTDS
-Clothing Recognition focusing on mnist dataset
+Clothing Recognition utilizing on mnist dataset.
